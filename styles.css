@@ -82,7 +82,7 @@ p {
     transform: translate(-50% -50%);
 }
 
-h1 {
+h2 {
     color: var(--white);
     padding: 1rem 0;
     font-size: 1.3rem;
@@ -93,7 +93,7 @@ h1 {
     color: var(--white);
 }
 
-.nft-name:hover h1 {
+.nft-name:hover h2 {
     color: var(--cyan);
 }
 
